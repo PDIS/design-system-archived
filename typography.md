@@ -13,53 +13,56 @@
 
 ## 字型 (Font)
 
-(待詳細分類) 
 
 ### 標題 (Heading)
+are used in product-based UI designs such as panels, cards, and menus.
+![](https://i.imgur.com/TGeSaD3.png)
+
 
 ### 段落 (Paragraph)
+The default paragraph font size is 16px on large screens and 14px on small screens.
+![](https://i.imgur.com/EAV4yga.png)
+
+
 
 ### 字重 (Font weight)
-:::info
-**加租字重**
-:::
+As with the font size, you can add a font weight override class to any other typographic class or element to change the font weight to regular or bold weight.
 
-:::info
-一般字重
-:::
+#### Bold text
+
+You can use bold to emphasise particular words in a transaction. Use it to highlight critical information that users need to refer to or you’ve seen them miss.
+
+For example, “Your reference number is ABC12345678. Use this to track your application. Updates will be sent to name@example.com“
+
+Use bold sparingly. Overuse will make it difficult for users to know which parts of your content they need to pay the most attention to.
+
+![](https://i.imgur.com/2bac9Yo.png)
+
 
 ### 顏色 (Color)
+The Goldman Sachs Design System has several pre-built color tokens that should be used for most text colors. If other colors need to be used, the color choice should consider accessiblity and legibility. Reference the Color foundation section for additional guidance.
+![](https://i.imgur.com/m7VGhbd.png)
+
 
 ### 連結 (Links)
-
-#### 底線連結 (Underlined)
-:::info
-<ins>連結</ins>
-:::
-
-#### 無底線連結 (Without underline)
-:::info
-連結
-:::
-
-#### 深色背景連結 (With dark background)
-:::info
-<span style="color:white">連結</span>
-:::
-
+Text links provide a way to navigate to another section or page and can displayed as standalone items or displayed inline within a sentence or paragraph.
+![](https://i.imgur.com/s3BmRUI.png)
 
 ### 列表 (Lists)
+Bulleted lists are used when items should be grouped together but have no inherent order. When using a bulleted list, it is recommended that the text for each bullet is not longer than two sentences.
+
+#### 項目符號列表 (unordered list)
+![](https://i.imgur.com/yEzTwvl.png)
 
 #### 編號列表 (Numbered)
-
-#### 項目符號列表 (Bulleted)
+![](https://i.imgur.com/mqr2hPb.png)
 
 
 
 ### 所有字型大小 (All font sizes)
+![](https://i.imgur.com/EOQ7oL9.png)
 
 
----
 
 
 
