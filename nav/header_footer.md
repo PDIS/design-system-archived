@@ -82,3 +82,33 @@
 
 
 ![](https://i.imgur.com/OxDKdx2.png)
+
+
+### 頁尾
+頁尾也如同頁首的概念，分成三個區塊。
+![](https://i.imgur.com/LnTRapg.png)
+1. 返回上方
+    
+    此列可自由選保留或拿掉。
+2. 頁尾副列
+    
+    這邊放的是服務選單。您可以選擇將頁尾的服務選單簡單處理，只列舉幾個常用的。或是窮舉所有服務。
+3. 頁尾主列
+    
+    頁尾主列是頁尾的主要區塊，可以放置機關的 Logo 與名稱，以及必要放在頁尾的標章（如無障礙標章）、連結（如市長信箱）與文字（如機關地址電話）。這邊也可以選擇放置社群媒體的連結。
+    
+    
+### 基本頁尾
+![](https://i.imgur.com/CZZRlor.png)
+
+### 基本頁尾加返回上方
+![](https://i.imgur.com/rZXwwWg.png)
+
+### 頁尾含所有服務
+![](https://i.imgur.com/h0pUIul.png)
+
+### 常見服務與社群媒體
+![](https://i.imgur.com/dx1rUvW.png)
+
+### 頁尾含所有服務與社群媒體
+![](https://i.imgur.com/5oUaxh7.png)
