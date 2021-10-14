@@ -41,7 +41,7 @@
 - [x] 斷點 (Breakpoints)
 ![](https://i.imgur.com/bzele3T.png)
 
-- [ ] 標準版面密度 (Standard density layout) / 緊密版面密度 (Compact density layout)
+- [ ] 版面密度 (Density layout) 
 ![](https://i.imgur.com/JWYrjOM.png)
 
 ## 範例
