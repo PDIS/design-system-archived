@@ -16,13 +16,41 @@
 
 ### 標題 (Heading)
 are used in product-based UI designs such as panels, cards, and menus.
-![](https://i.imgur.com/TGeSaD3.png)
+![](https://i.imgur.com/sakrJ0R.png)
 
+
+:::warning
+[will update]
+ps. What are the heading line height settings in Bootstrap?
+line-height: 1.5;
+:::
 
 ### 段落 (Paragraph)
 The default paragraph font size is 16px on large screens and 14px on small screens.
-![](https://i.imgur.com/EAV4yga.png)
+![](https://i.imgur.com/WjYWk1X.png)
 
+
+:::warning
+[will update]
+ps. What are the paragraph line height settings in Bootstrap? 1.5
+:::
+```
+$line-height-1:            1;
+$line-height-base:            1.5; ***
+$line-height-sm:              1.25;
+$line-height-lg:              2;
+
+"line-height": (
+      property: line-height,
+      class: lh,
+      values: (
+        1: 1,
+        sm: $line-height-sm,
+        base: $line-height-base,
+        lg: $line-height-lg,
+      )
+    ),
+```
 
 
 ### 字重 (Font weight)
@@ -35,18 +63,23 @@ You can use bold to emphasise particular words in a transaction. Use it to highl
 For example, “Your reference number is ABC12345678. Use this to track your application. Updates will be sent to name@example.com“
 
 Use bold sparingly. Overuse will make it difficult for users to know which parts of your content they need to pay the most attention to.
+![](https://i.imgur.com/8HMPKoe.png)
 
-![](https://i.imgur.com/2bac9Yo.png)
 
 
 ### 顏色 (Color)
-The Goldman Sachs Design System has several pre-built color tokens that should be used for most text colors. If other colors need to be used, the color choice should consider accessiblity and legibility. Reference the Color foundation section for additional guidance.
-![](https://i.imgur.com/m7VGhbd.png)
-
+![](https://i.imgur.com/9CERV1v.png)
 
 ### 連結 (Links)
-Text links provide a way to navigate to another section or page and can displayed as standalone items or displayed inline within a sentence or paragraph.
-![](https://i.imgur.com/s3BmRUI.png)
+連結的部分沿用 Bootstrap 5，在 hover 時就原有顏色加上一個 shade percentage。
+![](https://i.imgur.com/UFUHY3b.png)
+![](https://i.imgur.com/MUhoduJ.png)
+
+:::warning
+[will update]
+Links are underlined by default (not just on hover), unless they’re part of specific components.
+應該會拿掉這張圖
+:::
 
 ### 列表 (Lists)
 Bulleted lists are used when items should be grouped together but have no inherent order. When using a bulleted list, it is recommended that the text for each bullet is not longer than two sentences.
@@ -57,10 +90,9 @@ Bulleted lists are used when items should be grouped together but have no inhere
 #### 編號列表 (Numbered)
 ![](https://i.imgur.com/mqr2hPb.png)
 
-
-
 ### 所有字型大小 (All font sizes)
-![](https://i.imgur.com/EOQ7oL9.png)
+![](https://i.imgur.com/0j3Twki.png)
+
 
 
 
