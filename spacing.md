@@ -19,6 +19,12 @@ The smaller spacers should be used on more detailed spacing of elements within c
 文字與文字之間的間距
 ![](https://i.imgur.com/MrUjrdq.png)
 
+```
+Body text: 1rem (16px)
+Margin-top: 0
+Heading margin-botttom: .5 rem (8px)
+Paragraph margin-bottom: 1rem (16px)
+```
 
 ## 間距集 (Spacing)
 也可以繼續往上加，但一定要是 4 或 8 的倍數。
